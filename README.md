@@ -32,15 +32,6 @@ In this notebook, we:
 
 ---
 
-## Next Steps
-
-1. Reframe the task to Goal A: Market Movement Prediction (predicting Index_Change_Percent → Up/Down/Neutral).
-2. Combine FinBERT embeddings with tabular features (Impact_Level, Sector, Trading_Volume).
-3. Experiment with data augmentation or weak supervision to refine labels.
-4. Test other financial NLP models (FinGPT, BloombergGPT, or domain-specific LLMs).
-
----
-
 ## Dataset
 
 * Source: [Kaggle – Financial News Market Events Dataset 2025](https://www.kaggle.com/datasets/pratyushpuri/financial-news-market-events-dataset-2025)
